@@ -1,5 +1,4 @@
 # doomed_dice_challenge
-# Doomed Dice Challenge
 
 This repository contains my solution to the Doomed Dice Challenge problem.
 
